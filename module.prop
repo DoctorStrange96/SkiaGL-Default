@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=SkiaGL-Default
+name=SkiaGL as Default Renderer (Oreo)
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Kamin4ri
+description=Sets OpenGL (Skia) as the default renderer in Android Oreo (8.x).
